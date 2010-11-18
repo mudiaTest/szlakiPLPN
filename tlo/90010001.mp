@@ -1,0 +1,39 @@
+[IMG ID]
+ID=9999999
+Preview=Y
+Name=tlo
+Codepage=1252
+Levels=2
+Level0=12
+Zoom0=6
+Level1=11
+Zoom1=7
+[END]
+
+;Map:   tlo                                    
+;MapID: 9999999
+[RGN20]
+Type=0xb00
+Label=map created with http://cgpsmapper.com
+Data0=(52.6684570313,15.0073242188)
+[END]
+
+[RGN80]
+Type=0x4a00
+Label=0000001~[0x1d]90010001
+Data0=(52.6684570313,22.9833984375),(52.6684570313,15.0073242188),(55.3491210938,15.0073242188),(55.3491210938,23.0053710938)
+[END]
+
+[RGN20]
+Type=0xb00
+Label=map created with http://cgpsmapper.com
+Data0=(52.6684570313,15.0073242188)
+[END]
+
+[RGN80]
+Type=0x4a00
+Label=tlo~[0x1d]90010001
+
+Data0=(55.3491210938,23.0053710938),(55.3491210938,15.0073242188),(52.6684570313,15.0073242188),(52.6684570313,23.0053710938),
+[END]
+
