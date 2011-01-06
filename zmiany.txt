@@ -6,3 +6,4 @@
 (6) czerwony Kopernikowski - uaktualniona trasa pomiêdzy Grudzi¹dzem a Bia³¹ Gór¹ - poza terenem lasu
 (7) ¿ó³ty pieszy z Czarnej Wody do Tczewa - uaktualniony
 (8) pieszy niebieski - nowy fragment ze Starogardy Gd do Skarszew - bez przesyniêcia - brak po³¹czenia z poprzednim fragmenten w okolicach SG
+(9) dodanie nowych zmian z mapy Rybickiego
