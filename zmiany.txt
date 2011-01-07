@@ -9,3 +9,5 @@
 (9) dodanie nowych zmian z mapy Rybickiego
 (10) alertnatywne 3 odcinki czerwonego szlaku pieszego z okolic Koœcierzyny do Olpuch Wdzydze
 (11) alternatywny odcinkek niebieskiego pieszego z Wiele do okoilic Swornegacie
+(12) dodanie brakuj¹cego fragmentu szlaku pieszego niebieskiego pomiêdzi Swornegacie a Rytel
+(13) zmana budowy danych niebieskiego z (2) - end level zamiast 5 warstw
