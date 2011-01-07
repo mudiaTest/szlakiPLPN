@@ -20,3 +20,4 @@
 (20) (BT DEMART 2006) dodanie brakuj¹cych fragmentów ¿ó³tego pieszego z B³êdno do Tleñ
 (21) (BT DEMART 2006) dodanie brakuj¹cego fragmentu czerwonego w okolicach Lipinki
 (22) Dodanie zaginionych czarnych rowerowych z mapy Rybickiego
+(23) (BT DEMART 2006) dodanie szlaków rowerowych
