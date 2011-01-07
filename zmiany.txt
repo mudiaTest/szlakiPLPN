@@ -23,3 +23,4 @@
 (23) (BT DEMART 2006) dodanie szlaków rowerowych
 (23) (DS EKOKAPIO 2000) dodanie szlaków rowerowych
 (24) (ZBW EKOKAPIO) uzupe³nienie pieszego zielonego, dodanie pieszego czarnego
+(25) (ZBW EKOKAPIO) dodanie rowerowego czarnego (Szlak doliny Dolnej Wis³y) + dodanie rowerowego z Grodzi¹dz do Bia³a Góra
