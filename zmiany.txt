@@ -21,3 +21,4 @@
 (21) (BT DEMART 2006) dodanie brakuj¹cego fragmentu czerwonego w okolicach Lipinki
 (22) Dodanie zaginionych czarnych rowerowych z mapy Rybickiego
 (23) (BT DEMART 2006) dodanie szlaków rowerowych
+(23) (DS EKOKAPIO 2000) dodanie szlaków rowerowych
