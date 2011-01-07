@@ -7,3 +7,5 @@
 (7) ¿ó³ty pieszy z Czarnej Wody do Tczewa - uaktualniony
 (8) pieszy niebieski - nowy fragment ze Starogardy Gd do Skarszew - bez przesyniêcia - brak po³¹czenia z poprzednim fragmenten w okolicach SG
 (9) dodanie nowych zmian z mapy Rybickiego
+(10) alertnatywne 3 odcinki czerwonego szlaku pieszego z okolic Koœcierzyny do Olpuch Wdzydze
+(11) alternatywny odcinkek niebieskiego pieszego z Wiele do okoilic Swornegacie
