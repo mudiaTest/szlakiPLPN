@@ -7,14 +7,16 @@
 (7) ¿ó³ty pieszy z Czarnej Wody do Tczewa - uaktualniony
 (8) pieszy niebieski - nowy fragment ze Starogardy Gd do Skarszew - bez przesyniêcia - brak po³¹czenia z poprzednim fragmenten w okolicach SG
 (9) dodanie nowych zmian z mapy Rybickiego
-(10) alertnatywne 3 odcinki czerwonego szlaku pieszego z okolic Koœcierzyny do Olpuch Wdzydze
-(11) alternatywny odcinkek niebieskiego pieszego z Wiele do okoilic Swornegacie
-(12) dodanie brakuj¹cego fragmentu szlaku pieszego niebieskiego pomiêdzi Swornegacie a Rytel
-(13) zmana budowy danych niebieskiego z (2) - end level zamiast 5 warstw
-(14) dodanie brakuj¹cego fragmentu ¿ó³tego pieszego ze Swornegacie do okolic J.Charzykowskiego
-(15) dodanie brakuj¹cego fragmentu czarnego powy¿ej Chojnic
-(16) alternatywny odcinkek niebieskiego pieszego poni¿ej Tuchola
-(17) dodanie brakuj¹cego fragmentu ¿ó³tego w okolicach Chojnic
-(18) dodanie brakuj¹cych fragmentów zielonego pieszego z Chojnic do L. Woziwoda
-(19) dodanie brakuj¹cego fragmentu czerwonego ze Szlachta przez Œliwice
-(20) dodanie brakuj¹cych fragmentów ¿ó³tego pieszego z B³êdno do Tleñ
+(10) (BT DEMART 2006) alertnatywne 3 odcinki czerwonego szlaku pieszego z okolic Koœcierzyny do Olpuch Wdzydze
+(11) (BT DEMART 2006) alternatywny odcinkek niebieskiego pieszego z Wiele do okoilic Swornegacie
+(12) (BT DEMART 2006) dodanie brakuj¹cego fragmentu szlaku pieszego niebieskiego pomiêdzi Swornegacie a Rytel
+(13) (BT DEMART 2006) zmana budowy danych niebieskiego z (2) - end level zamiast 5 warstw
+(14) (BT DEMART 2006) dodanie brakuj¹cego fragmentu ¿ó³tego pieszego ze Swornegacie do okolic J.Charzykowskiego
+(15) (BT DEMART 2006) dodanie brakuj¹cego fragmentu czarnego powy¿ej Chojnic
+(16) (BT DEMART 2006) alternatywny odcinkek niebieskiego pieszego poni¿ej Tuchola
+(17) (BT DEMART 2006) dodanie brakuj¹cego fragmentu ¿ó³tego w okolicach Chojnic
+(18) (BT DEMART 2006) dodanie brakuj¹cych fragmentów zielonego pieszego z Chojnic do L. Woziwoda
+(19) (BT DEMART 2006) dodanie brakuj¹cego fragmentu czerwonego ze Szlachta przez Œliwice
+(20) (BT DEMART 2006) dodanie brakuj¹cych fragmentów ¿ó³tego pieszego z B³êdno do Tleñ
+(21) (BT DEMART 2006) dodanie brakuj¹cego fragmentu czerwonego w okolicach Lipinki
+(22) Dodanie zaginionych czarnych rowerowych z mapy Rybickiego
