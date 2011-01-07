@@ -12,3 +12,4 @@
 (12) dodanie brakuj¹cego fragmentu szlaku pieszego niebieskiego pomiêdzi Swornegacie a Rytel
 (13) zmana budowy danych niebieskiego z (2) - end level zamiast 5 warstw
 (14) dodanie brakuj¹cego fragmentu ¿ó³tego pieszego ze Swornegacie do okolic J.Charzykowskiego
+(15) dodanie brakuj¹cego fragmentu czarnego powy¿ej Chojnic
