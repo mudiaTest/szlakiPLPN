@@ -22,3 +22,4 @@
 (22) Dodanie zaginionych czarnych rowerowych z mapy Rybickiego
 (23) (BT DEMART 2006) dodanie szlaków rowerowych
 (23) (DS EKOKAPIO 2000) dodanie szlaków rowerowych
+(24) (ZBW EKOKAPIO) uzupe³nienie pieszego zielonego, dodanie pieszego czarnego
