@@ -30,3 +30,5 @@
 (29) (WEiOJD EKOKAPIO 2002) dodanie rowerowego ¿ó³tego (Nadmorka Trasa Rowerowa)
 (30) (WEiOJD EKOKAPIO 2002) dodanie rowerowego zielonego (Miêdzynarodowy R1)
 (31) (MW EKOKAPIO 2005) uzupe³nienie rowerowego ¿ó³tego (R64) i uzupe³nienie pieszego ¿ó³tego w okolicach Krynica Morska
+(32) (SPN KOPERNIKUS 2007) dodanie rowerowego zielonego (R10), uzupe³nienie rowerowego czarnego z Ustka do Rowy
+(33) (SPN KOPERNIKUS 2007) uzupe³nienie pieszego czerwonego z Rowy przez Ustka, fragment pieszego ¿ó³tego z Ustka do S³upsk, alternatywny odcinkek niebieskiego pieszego w okolicach Rowokó³ 
