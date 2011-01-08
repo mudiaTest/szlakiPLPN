@@ -24,3 +24,8 @@
 (23) (DS EKOKAPIO 2000) dodanie szlaków rowerowych
 (24) (ZBW EKOKAPIO) uzupe³nienie pieszego zielonego, dodanie pieszego czarnego
 (25) (ZBW EKOKAPIO) dodanie rowerowego czarnego (Szlak doliny Dolnej Wis³y) + dodanie rowerowego z Grodzi¹dz do Bia³a Góra
+(26) (KOCIEWIE GT) dodanie rowerowego zielonego + alternatywny odcinek pieszego zielonego
+(27) (WEiOJD EKOKAPIO 2002) dodanie brakuj¹cego fragmentu pieszego niebieskiego
+(28) (WEiOJD EKOKAPIO 2002) dodanie pieszego czerwonego (Menonitów)
+(29) (WEiOJD EKOKAPIO 2002) dodanie rowerowego ¿ó³tego (Nadmorka Trasa Rowerowa)
+(30) (WEiOJD EKOKAPIO 2002) dodanie rowerowego zielonego (Miêdzynarodowy R1)
