@@ -1,12 +1,12 @@
-(1) czarny wejherowski - ca³y (z przesuniêciem - nie jestem pewien pocz¹tku w Wejherowie)
-(2) dodany pieszy niebieski - ca³y ze œladu (bez przesuniêcia)
-(3) czerwony Kopernikowski - uaktualniony pomiêdzy Bia³¹ Gór¹ a Malborkiem
-(4) pieszy zielony - odcinek z Tczewa do Pelplina - ze œladu (bez przesuniêcia)
-(5) drobne korekty do niebieskiego szlaku z Lêborka
-(6) czerwony Kopernikowski - uaktualniona trasa pomiêdzy Grudzi¹dzem a Bia³¹ Gór¹ - poza terenem lasu
-(7) ¿ó³ty pieszy z Czarnej Wody do Tczewa - uaktualniony
-(8) pieszy niebieski - nowy fragment ze Starogardy Gd do Skarszew - bez przesyniêcia - brak po³¹czenia z poprzednim fragmenten w okolicach SG
-(9) dodanie nowych zmian z mapy Rybickiego
+(1)  (GPS) czarny wejherowski - ca³y (z przesuniêciem - nie jestem pewien pocz¹tku w Wejherowie)
+(2)  (GPS) dodany pieszy niebieski - ca³y ze œladu (bez przesuniêcia)
+(3)  (GPS) czerwony Kopernikowski - uaktualniony pomiêdzy Bia³¹ Gór¹ a Malborkiem
+(4)  (GPS) pieszy zielony - odcinek z Tczewa do Pelplina - ze œladu (bez przesuniêcia)
+(5)  (GPS) drobne korekty do niebieskiego szlaku z Lêborka
+(6)  (GPS) czerwony Kopernikowski - uaktualniona trasa pomiêdzy Grudzi¹dzem a Bia³¹ Gór¹ - poza terenem lasu
+(7)  (GPS) ¿ó³ty pieszy z Czarnej Wody do Tczewa - uaktualniony
+(8)  (GPS) pieszy niebieski - nowy fragment ze Starogardy Gd do Skarszew - bez przesyniêcia - brak po³¹czenia z poprzednim fragmenten w okolicach SG
+(9)  (GPS) dodanie nowych zmian z mapy Rybickiego
 (10) (BT DEMART 2006) alertnatywne 3 odcinki czerwonego szlaku pieszego z okolic Koœcierzyny do Olpuch Wdzydze
 (11) (BT DEMART 2006) alternatywny odcinkek niebieskiego pieszego z Wiele do okoilic Swornegacie
 (12) (BT DEMART 2006) dodanie brakuj¹cego fragmentu szlaku pieszego niebieskiego pomiêdzi Swornegacie a Rytel
@@ -33,3 +33,5 @@
 (32) (SPN KOPERNIKUS 2007) dodanie rowerowego zielonego (R10), uzupe³nienie rowerowego czarnego z Ustka do Rowy
 (33) (SPN KOPERNIKUS 2007) uzupe³nienie pieszego czerwonego z Rowy przez Ustka, fragment pieszego ¿ó³tego z Ustka do S³upsk, alternatywny odcinkek niebieskiego pieszego w okolicach Rowokó³ 
 (34) (NPK EKOKAPIO 2005) Dodanie brakuj¹cych rowrowych w Puszczy Dar¿lubskiej i zmiana b³êdnych oznaczeñ pieszych na rowerowe w okolicach J ¯arnowieckiego i Puszczy Wierzchuciñskiej
+(35) (GPS + Tablica EK) Uaktualnienie pieszego czarnego (Szlak Wzgórz Szymbarskich) z okolic "Góra Wê¿ów" do Matarnia
+(36) (GPS) Uaktualnienie pieszego czerwonego w okolicach Sarogardu Gdañskiego (brak fragmentu biegn¹cego od dworca w kierunku centrum)
