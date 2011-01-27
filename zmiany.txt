@@ -33,5 +33,6 @@
 (32) (SPN KOPERNIKUS 2007) dodanie rowerowego zielonego (R10), uzupe³nienie rowerowego czarnego z Ustka do Rowy
 (33) (SPN KOPERNIKUS 2007) uzupe³nienie pieszego czerwonego z Rowy przez Ustka, fragment pieszego ¿ó³tego z Ustka do S³upsk, alternatywny odcinkek niebieskiego pieszego w okolicach Rowokó³ 
 (34) (NPK EKOKAPIO 2005) Dodanie brakuj¹cych rowrowych w Puszczy Dar¿lubskiej i zmiana b³êdnych oznaczeñ pieszych na rowerowe w okolicach J ¯arnowieckiego i Puszczy Wierzchuciñskiej
-(35) (GPS + Tablica EK) Uaktualnienie pieszego czarnego (Szlak Wzgórz Szymbarskich) z okolic "Góra Wê¿ów" do Matarnia
-(36) (GPS) Uaktualnienie pieszego czerwonego w okolicach Sarogardu Gdañskiego (brak fragmentu biegn¹cego od dworca w kierunku centrum)
+(35) (GPS + Tablica PTTK) Uaktualnienie pieszego czarnego (Szlak Wzgórz Szymbarskich) z okolic "Góra Wê¿ów" do Matarnia
+(36) (GPS) Uaktualnienie pieszego czerwonego w okolicach Starogard Gdañski (brak fragmentu biegn¹cego od dworca w kierunku centrum)
+(37) (Tablica PTTK) Alternatywne odcinki pieszego czarnego z Witomino(Gdynia) do Osowa
