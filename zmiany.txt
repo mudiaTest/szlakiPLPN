@@ -36,3 +36,5 @@
 (35) (GPS + Tablica PTTK) Uaktualnienie pieszego czarnego (Szlak Wzgórz Szymbarskich) z okolic "Góra Wê¿ów" do Matarnia
 (36) (GPS) Uaktualnienie pieszego czerwonego w okolicach Starogard Gdañski (brak fragmentu biegn¹cego od dworca w kierunku centrum)
 (37) (Tablica PTTK) Alternatywne odcinki pieszego czarnego z Witomino(Gdynia) do Osowa
+(38) (ZWiO EKOKAPIO 2003) Dadanie nowego fragmenu rowerowego ¿ó³tego (R64) z Frombork do Braniewo
+(39) (ZWiO EKOKAPIO 2003) Dadanie pieszego niebieskiego z Braniewo do ¯elazna Góra
