@@ -42,7 +42,4 @@
 (41) (WB U-D EKOKAPIO 2002) Dodanie pieszego niebieskiego z Dar³owo do S³awno
 (42) (WB U-D EKOKAPIO 2002) Dodanie pieszego czarnego ze S³awno do Staniewica
 (43) (WB U-D EKOKAPIO 2002) Dodanie sieci rowerowych zielonych
-(44) (WB U-D EKOKAPIO 2002)
-(45) (WB U-D EKOKAPIO 2002)
-(46) (WB U-D EKOKAPIO 2002)
-(47) (WB U-D EKOKAPIO 2002)
+(44) (GPS) Korekta pieszego niebieskiego z Gniew do Pelplin
