@@ -52,4 +52,6 @@
 (51) (DEMART WJM 2007) Pieszy niebieski (3 fragmenty) ze Zgon do Kêtrzyn
 (52) (DEMART WJM 2007) Pieszy zielony (1 fragment) z Babiêty do ... 
 (53) (DEMART WJM 2007) Pieszy zielony (1 fragment) z Mamerki do ... 
-(54) (DEMART WJM 2007) Dodan ie szlaków rowerowych
+(54) (DEMART WJM 2007) Dodanie szlaków rowerowych
+(55) (GPS) Dodanie franmentu niebieskiego w po³udniowej czêœci Starogard Gdañski
+(56) (GPS) Poprawienie koñcówki pieszego czarnego na pó³noc od Nowe
