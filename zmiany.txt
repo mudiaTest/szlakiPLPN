@@ -56,3 +56,4 @@
 (55) (GPS) Dodanie franmentu niebieskiego w po³udniowej czêœci Starogard Gdañski
 (56) (GPS) Poprawienie koñcówki pieszego czarnego na pó³noc od Nowe
 (57) (GPS) Zielony pieszy od Czarna woda do Go³uñ - œciœle z przebiegiem
+(58) (GPS) Niebieski ze Skaszewy do Pogódki, poprawki niebieskiego od Pelplin do Skarszewy
