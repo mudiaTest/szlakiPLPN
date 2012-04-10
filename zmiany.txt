@@ -57,3 +57,4 @@
 (56) (GPS) Poprawienie koñcówki pieszego czarnego na pó³noc od Nowe
 (57) (GPS) Zielony pieszy od Czarna woda do Go³uñ - œciœle z przebiegiem
 (58) (GPS) Niebieski ze Skaszewy do Pogódki, poprawki niebieskiego od Pelplin do Skarszewy
+(59) (GPS) Piszy czarny - Dolnej Wis³y - Uaktualnienia istniej¹cego i dokoñczenie a¿ do nadwiœlañskiej œcieœki w Tczewie. Brakuje koñcówki do dworca w Tczewie i Nowe. Fragment tu¿ za Gniewem nie schodzi nad sam¹ Wis³ê, ale prowadzi po klifach.
