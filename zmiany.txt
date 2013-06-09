@@ -58,3 +58,6 @@
 (57) (GPS) Zielony pieszy od Czarna woda do Go³uñ - œciœle z przebiegiem
 (58) (GPS) Niebieski ze Skaszewy do Pogódki, poprawki niebieskiego od Pelplin do Skarszewy
 (59) (GPS) Piszy czarny - Dolnej Wis³y - Uaktualnienia istniej¹cego i dokoñczenie a¿ do nadwiœlañskiej œcieœki w Tczewie. Brakuje koñcówki do dworca w Tczewie i Nowe. Fragment tu¿ za Gniewem nie schodzi nad sam¹ Wis³ê, ale prowadzi po klifach.
+(60) (GPS) Piszy czarny - Dolnej Wis³y - Uaktualnienia istniej¹cego - szlak w pe³ni zgodny z GPS
+(61) (GPS) Pieszy zielony "Ziemi Tczewskiej" - Poprawiony odcinek Lipia góra - Smol¹g
+(62) (GPS) Pieszy zielony "Skarszewski" - Poprawiony od S³owackiego do Jeziora Przywidzkiego
