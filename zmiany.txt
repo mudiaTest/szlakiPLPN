@@ -61,3 +61,4 @@
 (60) (GPS) Piszy czarny - Dolnej Wis³y - Uaktualnienia istniej¹cego - szlak w pe³ni zgodny z GPS
 (61) (GPS) Pieszy zielony "Ziemi Tczewskiej" - Poprawiony odcinek Lipia góra - Smol¹g
 (62) (GPS) Pieszy zielony "Skarszewski" - Poprawiony od S³owackiego do Jeziora Przywidzkiego
+(63) (GPS) Pieszy zielony "Skarszewski" - Poprawiony odcinek w okolicy Kolbud
