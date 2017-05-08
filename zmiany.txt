@@ -67,3 +67,5 @@
 (66) (GPS) Pieszy czarny Wzgórz Szymbarskich - Od Otomino do Go³ubie
 (67) (GPS) Pieszy czerwony Szlak Kaszubski - Od Go³ubie do okolic Ostrzyce
 (68) (GPS) Pieszy czerwony Szlak Kaszubski - Od Za Ostrzycami do okolic Kartuzy
+(69) (GPS) Pieszy niebieski "Izydora ..." - Popawiony od Kalisk do koñca
+(70) (GPS) Pieszy czarny "Wzgórz szymbarskich" - Od Go³ubia do Ikei - szlak nieprzejzdny tu¿ przed obwodnica (MONAR)
