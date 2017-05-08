@@ -62,3 +62,8 @@
 (61) (GPS) Pieszy zielony "Ziemi Tczewskiej" - Poprawiony odcinek Lipia góra - Smol¹g
 (62) (GPS) Pieszy zielony "Skarszewski" - Poprawiony od S³owackiego do Jeziora Przywidzkiego
 (63) (GPS) Pieszy zielony "Skarszewski" - Poprawiony odcinek w okolicy Kolbud
+(64) (GPS) Pieszy zielony "Zaborski" - Uaktualnienie ca³oœci
+(65) (GPS) Rowerowy z Krokowa - Swarzewo - Od s³awoszyna do okolic Swarzewa
+(66) (GPS) Pieszy czarny Wzgórz Szymbarskich - Od Otomino do Go³ubie
+(67) (GPS) Pieszy czerwony Szlak Kaszubski - Od Go³ubie do okolic Ostrzyce
+(68) (GPS) Pieszy czerwony Szlak Kaszubski - Od Za Ostrzycami do okolic Kartuzy
